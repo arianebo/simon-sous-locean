@@ -1,0 +1,16 @@
+body {
+    background-image: url(../images/habillage.jpg);
+    background-repeat: no-repeat;
+    background-position-x: -300px;
+}
+
+h1{
+    text-align: center;
+    margin: 30px 0;
+    font-family: 'Carter One';
+    color: white;
+}
+
+#animation_container {
+    border: 1px solid white;
+}
